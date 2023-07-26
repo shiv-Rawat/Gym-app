@@ -22,5 +22,6 @@ Using this Web gym app is very simple. Anyone with the knowledge of browsing is 
 5. You can also watch the youtube video of that actvity at the same time by clicking on the video's dowm below.
 
 ENJOY THE WORKOUT
+[https://fitcult.netlify.app/]
 
 
